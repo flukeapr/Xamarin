@@ -1,0 +1,14 @@
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\bin\Debug\netstandard2.0\xamarin_lab1.deps.json
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\bin\Debug\netstandard2.0\xamarin_lab1.dll
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\bin\Debug\netstandard2.0\ref\xamarin_lab1.dll
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\bin\Debug\netstandard2.0\xamarin_lab1.pdb
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.AssemblyInfoInputs.cache
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.AssemblyInfo.cs
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.csproj.CoreCompileInputs.cache
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.dll
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\ref\xamarin_lab1.dll
+E:\Lab 11\xamarin_lab1\xamarin_lab1\xamarin_lab1\obj\Debug\netstandard2.0\xamarin_lab1.pdb

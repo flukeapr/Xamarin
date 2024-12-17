@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "euwV8DPtiNF03uj/XVqZZh4qzPAZ7kRsLPUJDswlp9/HIq7ffcYbpbzUlh8h+YR/cgKouf8bC3OVYLA7x7L5GA==",
+  "success": true,
+  "projectFilePath": "E:\\Lab 11\\Lab_Mvvm\\Lab_Mvvm\\Lab_Mvvm\\Lab_Mvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fluke\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fluke\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fluke\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

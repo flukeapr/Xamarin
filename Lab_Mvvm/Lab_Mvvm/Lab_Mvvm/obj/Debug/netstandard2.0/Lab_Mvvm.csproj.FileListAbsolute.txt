@@ -1,0 +1,15 @@
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\bin\Debug\netstandard2.0\Lab_Mvvm.deps.json
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\bin\Debug\netstandard2.0\Lab_Mvvm.dll
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\bin\Debug\netstandard2.0\ref\Lab_Mvvm.dll
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\bin\Debug\netstandard2.0\Lab_Mvvm.pdb
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.AssemblyInfoInputs.cache
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.AssemblyInfo.cs
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.csproj.CoreCompileInputs.cache
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.dll
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\ref\Lab_Mvvm.dll
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\Lab_Mvvm.pdb
+E:\Lab 11\Lab_Mvvm\Lab_Mvvm\Lab_Mvvm\obj\Debug\netstandard2.0\ProductList.xaml.g.cs
